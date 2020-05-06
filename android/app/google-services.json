@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362217771196",
+    "firebase_url": "https://organic-byway-257202.firebaseio.com",
+    "project_id": "organic-byway-257202",
+    "storage_bucket": "organic-byway-257202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362217771196:android:7922e629c24b54476140b9",
+        "android_client_info": {
+          "package_name": "com.rushikesh.learningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362217771196-i4q849vk2devccpeoj2ll5d7m83ibvhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxucbU6VeiUj1G6N5SszR_wmMnhoX5UjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362217771196-i4q849vk2devccpeoj2ll5d7m83ibvhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
